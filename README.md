@@ -90,7 +90,7 @@ pytest
 ## Удаление:
 Из корневой директории проекта выполните команду:
 ```bash
-cd .. && rm -fr doctor_free_time_window && deactivate
+cd .. && rm -fr doctor_free_time_windows && deactivate
 ```
 
 [⬆️Оглавление](#оглавление)
